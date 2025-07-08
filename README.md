@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Anju Chawla!
 
-<!--
-**anju-chawla/anju-chawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation Developer** | **WordPress Expert** | **Fast Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate and fast learner with **9+ years of experience** in web development, primarily focused on WordPress. Recently, I've expanded into the AI/ML space, exploring cutting-edge technologies to build smarter, more efficient digital solutions. My ability to quickly adapt and continuously learn helps me stay ahead in this rapidly evolving field.
+
+---
+
+## 🚀 Top Skills & Technologies
+
+- **WordPress Theme & Plugin Development**
+- **Web Automation & API Integration**
+- **LLMs** (OpenAI, Mistral), **LangChain**, **Vector DBs**
+- **Python**, **Node.js**, **JavaScript**, **HTML/CSS**
+- **Prompt Engineering**, **AI Workflows**
+
+---
+
+## 🌟 Featured Project
+
+[saas_seo_tool](https://github.com/anju-chawla/saas_seo_tool)  
+A SaaS SEO tool that leverages AI and automation for smarter, data-driven search optimization.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anju-chawla/)
+
+---
+
+## 🎉 Fun Facts
+
+- 📚 I love reading novels.
+- 👨‍👩‍👧‍👦 I enjoy spending quality time with my kids.
+
+---
+
+> “Never stop learning, because life never stops teaching.”
